@@ -57,9 +57,3 @@ Follow these steps to run MockQBot locally:
 - Learn Next.js - an interactive Next.js tutorial.
 ## 🚀 Deployment
 - The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js. Check out the Next.js deployment documentation for more details.
-
-## 📝 License
-- This project is licensed under the MIT License.
-
-## 📧 Contact
-- For any questions or feedback, please contact us at manviupadhyay2@gmail.com.
